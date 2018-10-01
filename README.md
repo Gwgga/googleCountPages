@@ -1,6 +1,6 @@
 # Google Count Pages
 
-A PHP script that uses Google Viewer to analyze and report the number of pages in a document. Since it uses Google Viewer to do this analysis, the document must have a size smaller than 25mb and be in the following extensions (PDF, DOC, DOCX, TXT, XLS XLSX, PPT, PPTX).
+A PHP script that uses Google Viewer to analyze and report the number of a document pages. Since it uses Google Viewer to do this analysis, the document must have a size smaller than 25mb and be in the following extensions (PDF, DOC, DOCX, TXT, XLS XLSX, PPT, PPTX).
 
 # Examples:
 
