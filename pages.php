@@ -50,7 +50,7 @@ $link = $_GET['link'];
 if(!empty($link)){
 	echo "Number of pages: ". countPages($link);
 }else{
-	echo "Invalid document";
+	echo "Insert a link to count the number of pages";
 }
 
 ?>
